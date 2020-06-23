@@ -1,1 +1,1 @@
-# Heart_Attack-Prediction
+# HeartAttack_Prediction
